@@ -1,4 +1,4 @@
-package com.example.demo.service.send;
+package com.example.chain_of_responsibility.service.send;
 
 /**
  * Created by Andrii Shulhin on 02.01.2020
