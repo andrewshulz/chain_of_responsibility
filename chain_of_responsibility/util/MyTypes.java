@@ -1,4 +1,4 @@
-package com.example.demo.util;
+package com.example.chain_of_responsibility.util;
 
 /**
  * Created by Andrii Shulhin on 02.01.2020

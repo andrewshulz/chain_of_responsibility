@@ -1,6 +1,6 @@
-package com.example.demo.service;
+package com.example.chain_of_responsibility.service;
 
-import com.example.demo.service.send.SendService;
+import com.example.chain_of_responsibility.service.send.SendService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

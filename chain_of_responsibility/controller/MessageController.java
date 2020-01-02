@@ -1,6 +1,6 @@
-package com.example.demo.controller;
+package com.example.chain_of_responsibility.controller;
 
-import com.example.demo.service.MainService;
+import com.example.chain_of_responsibility.service.MainService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
